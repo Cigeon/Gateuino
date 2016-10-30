@@ -41,19 +41,19 @@ char auth[] = "YourAuthToken";
 ```
 Add Button widgets and Value Display S widgets to your project:
 
-![Add button widget](https://drive.google.com/file/d/0B8BYBsqsRl2gTEFWRXFVazFpcTg/view?usp=sharing)
+![Add button widget](https://github.com/Cigeon/Gateuino/blob/master/screens/Screenshot1_cc.blynk.png)
 
-![Add Value Display S  widget](https://drive.google.com/file/d/0B8BYBsqsRl2gTEFWRXFVazFpcTg/view?usp=sharing)
+![Add Value Display S  widget](https://github.com/Cigeon/Gateuino/blob/master/screens/Screenshot2_cc.blynk.png)
 
 Then configure yout widgets like this:
 
-![Configure gate's button widget](https://drive.google.com/file/d/0B8BYBsqsRl2gTEFWRXFVazFpcTg/view?usp=sharing)
+![Configure gate's button widget](https://github.com/Cigeon/Gateuino/blob/master/screens/Screenshot3_cc.blynk.png)
 
-![Configure wicket's button widget](https://drive.google.com/file/d/0B8BYBsqsRl2gTEFWRXFVazFpcTg/view?usp=sharing)
+![Configure wicket's button widget](https://github.com/Cigeon/Gateuino/blob/master/screens/Screenshot4_cc.blynk.png)
 
-![Configure gate's Value Display S  widget](https://drive.google.com/file/d/0B8BYBsqsRl2gTEFWRXFVazFpcTg/view?usp=sharing)
+![Configure gate's Value Display S  widget](https://github.com/Cigeon/Gateuino/blob/master/screens/Screenshot5_cc.blynk.png)
 
-![Configure wicket's Value Display S  widget](https://drive.google.com/file/d/0B8BYBsqsRl2gTEFWRXFVazFpcTg/view?usp=sharing)
+![Configure wicket's Value Display S  widget](https://github.com/Cigeon/Gateuino/blob/master/screens/Screenshot6_cc.blynk.png)
 
 Finally you should get something like this:
 
@@ -63,11 +63,11 @@ Schematics:
 -------------
 Gate and wicket view:
 
-![Gate and wicket view](https://drive.google.com/file/d/0B8BYBsqsRl2gTEFWRXFVazFpcTg/view?usp=sharing)
+![Gate and wicket view](https://github.com/Cigeon/Gateuino/blob/master/screens/GateAndWicket.png)
 
 Electrical diagram:
 
-![Electrical diagram](https://drive.google.com/file/d/0B8BYBsqsRl2gTEFWRXFVazFpcTg/view?usp=sharing)
+![Electrical diagram](https://github.com/Cigeon/Gateuino/blob/master/screens/GateuinoScheme.png)
 
 Hardware components:
 -------------
