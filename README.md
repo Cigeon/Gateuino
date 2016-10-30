@@ -53,7 +53,7 @@ Then configure yout widgets like this:
 
 Finally you should get something like this:
 
-![Configure wicket's Value Display S  widget](https://drive.google.com/file/d/0B8BYBsqsRl2gTEFWRXFVazFpcTg/view?usp=sharing)
+<img src="https://github.com/Cigeon/Gateuino/blob/master/screens/Screenshot7_cc.blynk.png" width="288" height="512">
 
 Schematics:
 -------------
