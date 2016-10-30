@@ -41,6 +41,8 @@ char auth[] = "YourAuthToken";
 ```
 Add Button widgets and Value Display S widgets to your project:
 
+<img src="https://github.com/Cigeon/Gateuino/blob/master/screens/Screenshot1_cc.blynk.png" width="288" height="512">
+
 ![Add button widget](https://github.com/Cigeon/Gateuino/blob/master/screens/Screenshot1_cc.blynk.png)
 
 ![Add Value Display S  widget](https://github.com/Cigeon/Gateuino/blob/master/screens/Screenshot2_cc.blynk.png)
