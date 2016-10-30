@@ -42,20 +42,14 @@ char auth[] = "YourAuthToken";
 Add Button widgets and Value Display S widgets to your project:
 
 <img src="https://github.com/Cigeon/Gateuino/blob/master/screens/Screenshot1_cc.blynk.png" width="288" height="512">
-
-![Add button widget](https://github.com/Cigeon/Gateuino/blob/master/screens/Screenshot1_cc.blynk.png)
-
-![Add Value Display S  widget](https://github.com/Cigeon/Gateuino/blob/master/screens/Screenshot2_cc.blynk.png)
+<img src="https://github.com/Cigeon/Gateuino/blob/master/screens/Screenshot2_cc.blynk.png" width="288" height="512">
 
 Then configure yout widgets like this:
 
-![Configure gate's button widget](https://github.com/Cigeon/Gateuino/blob/master/screens/Screenshot3_cc.blynk.png)
-
-![Configure wicket's button widget](https://github.com/Cigeon/Gateuino/blob/master/screens/Screenshot4_cc.blynk.png)
-
-![Configure gate's Value Display S  widget](https://github.com/Cigeon/Gateuino/blob/master/screens/Screenshot5_cc.blynk.png)
-
-![Configure wicket's Value Display S  widget](https://github.com/Cigeon/Gateuino/blob/master/screens/Screenshot6_cc.blynk.png)
+<img src="https://github.com/Cigeon/Gateuino/blob/master/screens/Screenshot3_cc.blynk.png" width="288" height="512">
+<img src="https://github.com/Cigeon/Gateuino/blob/master/screens/Screenshot4_cc.blynk.png" width="288" height="512">
+<img src="https://github.com/Cigeon/Gateuino/blob/master/screens/Screenshot5_cc.blynk.png" width="288" height="512">
+<img src="https://github.com/Cigeon/Gateuino/blob/master/screens/Screenshot6_cc.blynk.png" width="288" height="512">
 
 Finally you should get something like this:
 
